@@ -1,4 +1,4 @@
-## Hi, my name is Felipe GOmes
+## Hi, my name is Felipe Gomes
 
 I am student an Computer Science student at [Unesp](https://www2.unesp.br/)
 
