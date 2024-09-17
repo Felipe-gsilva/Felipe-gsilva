@@ -1,10 +1,10 @@
 ## Hi, my name is Felipe Gomes
 
-I am student an Computer Science student at [Unesp](https://www2.unesp.br/)
+I'm currently a Computer Science student at [Unesp](https://www2.unesp.br/)
 
 Current working at [moclojer](https://www.moclojer.com/)
 
-I am now really interested on some low level programming used into some graphical applications.
+I am now really into on some low level programming, clojure, and some graphical low level applications.
 
 <p align="left">
   <a href="mailto:felipe.gsilva@protonmail.com" title="ProtonMail">
