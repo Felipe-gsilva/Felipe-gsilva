@@ -2,9 +2,11 @@
 
 I'm currently a Computer Science student at [Unesp](https://www2.unesp.br/)
 
-Current working at [moclojer](https://www.moclojer.com/)
+Current projects: 
+- [moclojer](https://www.moclojer.com/)
+- [passagemdeonibus.com](https://passagemdeonibus.com/)
 
-I am now really into on some low level programming, clojure, and some graphical low level applications.
+I am now really into on some low level programming, clojure, and some low level applications (mostly kernel and graphical stuff).
 
 <p align="left">
   <a href="mailto:felipe.gsilva@protonmail.com" title="ProtonMail">
