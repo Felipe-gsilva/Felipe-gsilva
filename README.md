@@ -2,6 +2,8 @@
 
 I'm currently a Computer Science student at [Unesp](https://www2.unesp.br/)
 
+My website: [felipe-gsilva.me](http://felipe-gsilva.me/)
+
 Current projects: 
 - [moclojer](https://www.moclojer.com/)
 - [passagemdeonibus.com](https://passagemdeonibus.com/)
