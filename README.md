@@ -8,6 +8,7 @@ Current projects:
 - [moclojer](https://www.moclojer.com/)
 - [passagemdeonibus.com](https://passagemdeonibus.com/)
 - [coding ferpa](https://codingferpa.org/)
+- Iniciação Científica em Computação Gráfica
 
 I am now really into on some low level programming, clojure, and some low level applications (mostly kernel and graphical stuff).
 
