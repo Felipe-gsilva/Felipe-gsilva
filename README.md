@@ -10,7 +10,7 @@ Current projects:
 - [coding ferpa](https://codingferpa.org/)
 - Computer Graphics Scientific Iniciation
 
-I am now really into on some low level programming, clojure, and some low level applications (mostly kernel and graphical stuff).
+I am now really into on some low level programming, mostly kernel and graphical stuff.
 
 <p align="left">
   <a href="mailto:felipe.gsilva@protonmail.com" title="ProtonMail">
