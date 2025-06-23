@@ -8,7 +8,7 @@ Current projects:
 - [moclojer](https://www.moclojer.com/)
 - [passagemdeonibus.com](https://passagemdeonibus.com/)
 - [coding ferpa](https://codingferpa.org/)
-- [Computer Graphics Scientific Iniciation](https://github.com/Felipe-gsilva/ic)
+- [Scientific Iniciation](https://github.com/Felipe-gsilva/ic)
 
 I am now really into on some low level programming, mostly kernel and graphical stuff.
 
