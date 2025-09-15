@@ -8,6 +8,7 @@ Projects:
 - [coding ferpa](https://codingferpa.org/)
 - [Scientific Iniciation](https://github.com/Felipe-gsilva/ic)
 - [Operating System Simulator](https://github.com/bolt-and-plugs/ChicOS)
+- [Simple C Lang](https://github.com/felipe-gsilva/simple-c)
 - [moclojer](www.moclojer.com)
 
 I am now really into on some low level programming, mostly kernel and graphical stuff.
