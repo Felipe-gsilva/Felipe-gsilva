@@ -6,7 +6,7 @@ My website: [felipe-gsilva.me](http://felipe-gsilva.me/)
 
 Projects: 
 - [coding ferpa](https://codingferpa.org/)
-- [Scientific Iniciation](https://github.com/Felipe-gsilva/ic)
+- [Survey sobre Computacação Gráfica e Física](https://github.com/felipe-gsilva/survey-comp-grafica)
 - [Operating System Simulator](https://github.com/bolt-and-plugs/ChicOS)
 - [Simple C Lang](https://github.com/felipe-gsilva/simple-c)
 - [moclojer](www.moclojer.com)
