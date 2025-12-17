@@ -8,7 +8,7 @@ Projects:
 - [coding ferpa](https://codingferpa.org/)
 - [Survey sobre Computacação Gráfica e Física](https://github.com/felipe-gsilva/survey-comp-grafica)
 - [Operating System Simulator](https://github.com/bolt-and-plugs/ChicOS)
-- [GavetaDB](https://github.con/felipe-gsilva/Gaveta)
+- [GavetaDB](https://github.com/felipe-gsilva/Gaveta)
 - [moclojer](www.moclojer.com)
 
 I am now really into on some low level programming, mostly kernel and graphical stuff.
