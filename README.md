@@ -10,6 +10,8 @@ Projects:
 - [Operating System Simulator](https://github.com/bolt-and-plugs/ChicOS)
 - [moclojer](www.moclojer.com)
 
+My Scientific Initiation project in computer vision with deep learning emphasis is currently under progress. 
+
 I am now really into on some low level programming, mostly kernel and graphical stuff.
 
 <p align="left">
