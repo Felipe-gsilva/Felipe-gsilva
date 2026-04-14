@@ -1,10 +1,12 @@
 ## Hi, my name is Felipe Gomes
 
+Software engineer with a proven track record in high-performance systems and scalable architectures. Strong foundation in performance optimization, low-level computing, and concurrency. Academic researcher in computer vision and machine learning.
+
 I'm currently a Computer Science student at [Unesp](https://www2.unesp.br/)
 
-My website: [felipe-gsilva.me](http://felipe-gsilva.me/)
+Checkout my [website](http://felipe-gsilva.me/)
 
-I am now really into on some low level programming, mostly kernel and graphical stuff.
+
 
 <p align="left">
   <a href="mailto:felipe.gsilva@protonmail.com" title="ProtonMail">
