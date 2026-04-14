@@ -4,14 +4,6 @@ I'm currently a Computer Science student at [Unesp](https://www2.unesp.br/)
 
 My website: [felipe-gsilva.me](http://felipe-gsilva.me/)
 
-Projects: 
-- [coding ferpa](https://codingferpa.org/)
-- [Survey sobre Computacação Gráfica e Física](https://github.com/felipe-gsilva/survey-comp-grafica)
-- [Operating System Simulator](https://github.com/bolt-and-plugs/ChicOS)
-- [moclojer](www.moclojer.com)
-
-My Scientific Initiation project in computer vision with deep learning emphasis is currently under progress. 
-
 I am now really into on some low level programming, mostly kernel and graphical stuff.
 
 <p align="left">
